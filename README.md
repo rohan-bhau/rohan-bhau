@@ -13,14 +13,14 @@
   <a href="https://www.linkedin.com/in/rohan-mia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://facebook.com/rohanmiaprofile">
+  <a href="https://facebook.com/bhau.rohan">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM-ID">
+  <a href="https://instagram.com/__rohan.bhau/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER-ID">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+  <a href="https://x.com/_Rohan_Bhau">
+<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
@@ -107,7 +107,7 @@
 <p align="center">
   <p align="center">
      <a href="https://github.com/rohan-bhau" >
-   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-bhau&show_icons=true&theme=tokyonight" width="45%" />
+   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-bhau&show_icons=true&theme=tokyonight"  />
         </a>
         <a href="https://github.com/rohan-bhau" >
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-bhau&theme=tokyonight" />
@@ -119,7 +119,7 @@
 
 <p align="center">
   <a href="https://github.com/rohan-bhau" align="center">
-    <img height="180"  width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180"   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 </p>
