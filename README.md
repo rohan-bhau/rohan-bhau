@@ -104,23 +104,23 @@
 
 <div align="center">
 
-  <p align="center">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
      <a href="https://github.com/rohan-bhau" >
    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-bhau&show_icons=true&theme=tokyonight"  />
         </a>
         <a href="https://github.com/rohan-bhau" >
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-bhau&theme=tokyonight" />
            </a>
-  </p>
+  </div>
 
 
 
 
-<p align="center">
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/rohan-bhau" align="center">
     <img height="180"   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
-</p>
+</div>
 
 </div>
 
