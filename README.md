@@ -60,15 +60,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-bhau&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohan-bhau&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🛠️ Tech Stack
