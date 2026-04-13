@@ -51,20 +51,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohan-bhau&theme=tokyonight&utcOffset=6" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-bhau&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-bhau&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 ## 🛠️ Tech Stack
@@ -105,4 +93,40 @@
   <img src="https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm" />
 </p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+## 📈 GitHub Stats
+
 ---
+
+
+
+<p align="center">
+  <p align="center">
+     <a href="https://github.com/rohan-bhau" >
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-bhau&show_icons=true&theme=tokyonight" width="45%" />
+        </a>
+        <a href="https://github.com/rohan-bhau" >
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-bhau&theme=tokyonight" />
+           </a>
+  </p>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/rohan-bhau" align="center">
+    <img height="180em"  width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</p>
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+<p align="center"><i>Thanks for visiting my GitHub profile! 🚀</i></p>
+
