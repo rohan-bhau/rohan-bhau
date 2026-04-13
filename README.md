@@ -106,10 +106,10 @@
 <p align="center">
   <p align="center">
      <a href="https://github.com/rohan-bhau" >
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-bhau&show_icons=true&theme=tokyonight"  />
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-bhau&show_icons=true&theme=tokyonight" width="45%" />
         </a>
         <a href="https://github.com/rohan-bhau" >
-    <img height="180em" src="https://streak-stats.demolab.com?user=rohan-bhau&theme=tokyonight"  />
+    <img height="180em" src="https://streak-stats.demolab.com?user=rohan-bhau&theme=tokyonight"  width="45%"/>
            </a>
   </p>
 
@@ -118,7 +118,7 @@
   <p align="center">
 
   <a href="https://github.com/rohan-bhau" >
-    <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" width="45%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 </p>
