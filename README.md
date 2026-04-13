@@ -102,9 +102,8 @@
 
 ---
 
+<div align="center">
 
-
-<p align="center">
   <p align="center">
      <a href="https://github.com/rohan-bhau" >
    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-bhau&show_icons=true&theme=tokyonight"  />
@@ -122,7 +121,8 @@
     <img height="180"   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
-</p>
+
+</div>
 
 
 <p align="center">
