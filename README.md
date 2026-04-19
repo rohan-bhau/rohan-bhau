@@ -36,10 +36,15 @@
 
 ## 👨‍💻 About Me
 
-- 👨‍💻 Frontend Developer  
-- ⚡ Love building clean & simple UI  
-- 🧠 Learning Next.js & TypeScript  
-- 🎯 Goal: Become a skilled developer with strong fundamentals
+- 💻 Frontend Developer  
+- ⚛️ Working with React, Next.js, and TypeScript  
+- 🎯 Focused on building clean and responsive web applications  
+- 📱 Interested in modern UI/UX and performance optimization  
+- 📈 Improving problem-solving and debugging skills  
+- 🚀 Building real-world projects to strengthen practical experience  
+- 🧠 Continuously learning new technologies and best practices  
+- 🔗 Interested in combining business knowledge with technology  
+- 🎓 Background in commerce with a goal to become a Chartered Accountant  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
