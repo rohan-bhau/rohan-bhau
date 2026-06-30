@@ -58,7 +58,7 @@
 - **Live Link:** [reservaa.vercel.app](https://reservaa.vercel.app/)
 - **Source Code:** [Frontend Repo](https://github.com/rohan-bhau/Reserva) | [Backend Repo](https://github.com/rohan-bhau/reserva-server)
 - **Tech Stack:** Next.js, React Router, Tailwind CSS, Hero UI, Framer Motion, Node.js, Express.js, MongoDB, JWT, Better Auth.
-- **Key Features:** Secure JWT Authentication with HTTPOnly Cookies, Google Login, dynamic booking system with total price calculation, search and filter by sport type, and a fully responsive clean UI/UX with smooth animations.
+- **Key Features:** Secure JWT Authentication with HTTPOnly Cookies,, Google Login, dynamic booking system with total price calculation, search and filter by sport type, and a fully responsive clean UI/UX with smooth animations.
 
 ### 🐄 Qurbaniya
 *An animal marketplace application with a detailed booking and profile system.*
