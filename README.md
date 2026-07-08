@@ -175,20 +175,39 @@
 ---
 
 <p align="center">
-  <p align="center">
-     <a href="https://github.com/rohan-bhau" >
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-bhau&show_icons=true&theme=tokyonight" width="45%" />
-        </a>
-        <a href="https://github.com/rohan-bhau" >
-    <img height="180em" src="https://streak-stats.demolab.com?user=rohan-bhau&theme=tokyonight"  width="45%"/>
-           </a>
-  </p>
+  <a href="https://github.com/rohan-bhau">
+    <img
+      width="45%"
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-bhau&show_icons=true&theme=tokyonight"
+    />
+  </a>
 
-  <p align="center">
-  <a href="https://github.com/rohan-bhau" >
-    <img height="180em" width="45%"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&langs_count=8&theme=tokyonight"/>
+  <a href="https://github.com/rohan-bhau">
+    <img
+      width="45%"
+      height="180em"
+      src="https://streak-stats.demolab.com?user=rohan-bhau&theme=tokyonight"
+    />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/rohan-bhau/">
+    <img
+      width="45%"
+      height="180em"
+      src="https://leetcard.jacoblin.cool/rohan-bhau?theme=dark&font=Baloo%202&ext=contest"
+    />
+  </a>
+
+  <a href="https://github.com/rohan-bhau">
+    <img
+      width="45%"
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-bhau&layout=compact&langs_count=8&theme=tokyonight"
+    />
+  </a>
 </p>
 
 
