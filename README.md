@@ -16,12 +16,12 @@
   <a href="https://rohanmia.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://facebook.com/bhau.rohan">
+  <!-- <a href="https://facebook.com/bhau.rohan">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
   </a>
   <a href="https://instagram.com/__rohan.bhau/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
-  </a>
+  </a> -->
   <a href="https://x.com/_Rohan_Bhau">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
