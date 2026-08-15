@@ -53,6 +53,16 @@
 
 ## 🚀 Featured Projects
 
+🎯 VIREO
+*An AI-powered project management platform with real-time collaboration, custom workflows, and automation.*
+<!-- <p align="right">
+  <img src="/vireo.png" alt="VIREO Dashboard" width="45%" align="right" />
+</p>  -->
+- **Live Link:** [vireo-client.vercel.app](https://vireo.vercel.app/)
+- **Source Code:** [Frontend Repo](https://github.com/rohan-bhau/Vireo) | [Backend Repo](https://github.com/rohan-bhau/Vireo-server)
+- **Tech Stack:** Next.js, React, TypeScript, Redux Toolkit, RTK Query, Tailwind CSS, Express.js, Node.js, MongoDB, PostgreSQL, Prisma, Socket.io, Stripe, OpenAI.
+- **Key Features:** AI assistant that drafts tickets, summarizes threads, and plans sprints; drag-and-drop Scrum/Kanban boards with sprints, epics, and roadmaps; visual workflow editor (React Flow) with custom statuses, transitions, and permission schemes; real-time collaboration over Socket.io; JWT + OTP/OAuth authentication; Stripe billing with Free/Pro/Enterprise plans and webhook-independent activation; automation rules in plain English with cron scheduling; burndown, velocity, and cumulative flow reports.
+
 ### 🏟️ Reserva
 *A comprehensive facility management and booking system.*
 - **Live Link:** [reservaa.vercel.app](https://reservaa.vercel.app/)
