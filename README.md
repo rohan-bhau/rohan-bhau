@@ -53,7 +53,7 @@
 
 ## 🚀 Featured Projects
 
-🎯 VIREO
+### 🎯 VIREO
 *An AI-powered project management platform with real-time collaboration, custom workflows, and automation.*
 <!-- <p align="right">
   <img src="/vireo.png" alt="VIREO Dashboard" width="45%" align="right" />
