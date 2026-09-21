@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="banner.jpg" alt="Md Rohan Mia - MERN Stack Developer Banner" width="100%"/>
+  <img src="banner.png" alt="Md Rohan Mia - MERN Stack Developer Banner" width="100%"/>
 </p>
 
 <p align="center">
