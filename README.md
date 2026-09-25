@@ -63,19 +63,25 @@
 - **Tech Stack:** Next.js, React, TypeScript, Redux Toolkit, RTK Query, Tailwind CSS, Express.js, Node.js, MongoDB, PostgreSQL, Prisma, Socket.io, Stripe, OpenAI.
 - **Key Features:** AI assistant that drafts tickets, summarizes threads, and plans sprints; drag-and-drop Scrum/Kanban boards with sprints, epics, and roadmaps; visual workflow editor (React Flow) with custom statuses, transitions, and permission schemes; real-time collaboration over Socket.io; JWT + OTP/OAuth authentication; Stripe billing with Free/Pro/Enterprise plans and webhook-independent activation; automation rules in plain English with cron scheduling; burndown, velocity, and cumulative flow reports.
 
-### 🏟️ Reserva
-*A comprehensive facility management and booking system.*
-- **Live Link:** [reservaa.vercel.app](https://reservaa.vercel.app/)
-- **Source Code:** [Frontend Repo](https://github.com/rohan-bhau/Reserva) | [Backend Repo](https://github.com/rohan-bhau/reserva-server)
-- **Tech Stack:** Next.js, React Router, Tailwind CSS, Hero UI, Framer Motion, Node.js, Express.js, MongoDB, JWT, Better Auth.
-- **Key Features:** Secure JWT Authentication with HTTPOnly Cookies, Google Login, dynamic booking system with total price calculation, search and filter by sport type, and a fully responsive clean UI/UX with smooth animations.
+### ⚖️ Advokate
 
-### 🐄 Qurbaniya
-*An animal marketplace application with a detailed booking and profile system.*
-- **Live Link:** [qurbaniya-phi.vercel.app](https://qurbaniya-phi.vercel.app/)
-- **Source Code:** [Frontend Repo](https://github.com/rohan-bhau/Qurbaniya) | [Backend Repo](https://github.com/rohan-bhau/Qurbaniya-server)
-- **Tech Stack:** Next.js, Hero UI, React Hook Form, MongoDB, Better Auth, Google OAuth, React Spring.
-- **Key Features:** Google Sign-in integration, category-based marketplace display, validated animal booking forms, robust user profile management (update name & image), and seamless toast notifications for enhanced UX.
+*A full-stack lawyer hiring marketplace connecting users with verified lawyers through hiring requests, secure payments, and role-based dashboards.*
+
+* **Live Link:** [advokate-client.vercel.app](https://advokate-client.vercel.app/)
+* **Source Code:** [Frontend Repo](https://github.com/rohan-bhau/Advokate-client) | [Backend Repo](https://github.com/rohan-bhau/Advokate-server)
+* **Tech Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS, HeroUI, Framer Motion, Better Auth, Express.js, Node.js, MongoDB, Stripe, Recharts.
+* **Key Features:** Role-based User, Lawyer, and Admin dashboards; verified lawyer discovery with advanced search and filtering; hiring request and approval workflow; Stripe payments with transaction tracking; lawyer verification and service publishing; legal profile management; review system; Google and email authentication; protected REST APIs; analytics dashboards; pagination, skeleton loading, dark mode, and responsive UI.
+
+
+### 🛒 Grocio
+
+*A modern full-stack hyperlocal grocery delivery platform with real-time order tracking, delivery coordination, and AI-assisted communication.*
+
+* **Live Link:** [grocio-three.vercel.app](https://grocio-three.vercel.app/)
+* **Source Code:** [Frontend Repo](https://github.com/rohan-bhau/Grocio) | [Backend Repo](https://github.com/rohan-bhau/Grocio-server)
+* **Tech Stack:** Next.js 14, React 18, TypeScript, Tailwind CSS, Redux Toolkit, NextAuth, Node.js, Express.js, Socket.io, MongoDB, Mongoose, Nodemailer, Gemini 1.5 Flash.
+* **Key Features:** Real-time order synchronization between customers, admins, and delivery partners; live courier GPS tracking with browser geolocation; Socket.io room-based two-way customer–courier chat; real-time delivery assignment and order status updates; AI-powered smart reply suggestions with Gemini and automatic fallback responses; admin product and order management; delivery partner request handling; OTP-based delivery verification; revenue and business analytics dashboards; dedicated standalone Socket.io server for persistent WebSocket connections.
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
